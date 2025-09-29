@@ -2,7 +2,7 @@
   "name": "Calculadora de Efectivo",
   "short_name": "Calculadora",
   "description": "Calculadora de efectivo simple y elegante",
-  "start_url": "./Calculadora.html",
+  "start_url": "./indez.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a2a6c",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
